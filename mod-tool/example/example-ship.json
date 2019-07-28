@@ -1,1 +1,7 @@
-temp
+{
+ "name": "Example Ship",
+ "sprite": "example_ship",
+ "damage": "0",
+ "speed": "0",
+ "price": "250"
+}
