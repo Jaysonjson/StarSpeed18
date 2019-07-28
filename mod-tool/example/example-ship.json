@@ -1,7 +1,7 @@
 {
- "name": "Example Ship",
- "sprite": "example_ship",
- "damage": "0",
- "speed": "0",
- "price": "250"
+ "name": "Example Ship", //Display name
+ "sprite": "example_ship", //Texture file, needs to end with .png
+ "damage": "0", //Additional Damage
+ "speed": "0", //    -/-     Speed
+ "price": "250" //Price of the ship inside the Shop
 }
