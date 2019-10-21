@@ -14,6 +14,11 @@
         "name": "StarSpeed18.exe",
         "type": "starspeed18"
       },
+       "0.0.0.0": {
+        "zip": "",
+        "name": "StarSpeed20.exe",
+        "type": "starspeed20"
+      },
       "0.0.0.1": {
         "zip": "",
         "name": "StarSpeed18.exe",
@@ -22,7 +27,7 @@
     },
     "beta": {
       "0.0.0.1": {
-        "zip": "",
+        "zip": "https://www.dropbox.com/s/ekb43lcs3toraa3/ss18beta0001.zip?dl=1",
         "name": "StarSpeed18.exe",
         "type": "starspeed18"
       },
