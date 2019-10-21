@@ -1,1 +1,23 @@
-
+{
+  "Jayson_json": {
+    "starspeed20": true,
+    "developer": true,
+    "starspeed18": true,
+    "beta": true,
+    "alpha": true
+  },
+  "Poltergeist": {
+    "starspeed20": true,
+    "developer": true,
+    "starspeed18": true,
+    "beta": true,
+    "alpha": true
+  },
+  "Asc4Yin": {
+    "starspeed20": true,
+    "developer": true,
+    "starspeed18": true,
+    "beta": true,
+    "alpha": true
+  }
+}
